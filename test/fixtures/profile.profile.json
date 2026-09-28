@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "profile": {
+    "id": "1ee9c0f4-3b71-6a2c-9d18-4f7b2e5a8c31",
+    "firstName": "Богдан",
+    "lastName": "Тестенко",
+    "middleName": null,
+    "phone": "+380671234567",
+    "email": "bohdan.testenko@example.com",
+    "birthday": "1990-05-12",
+    "gender": "male",
+    "status": "active"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "summary": "Favorites updated: added 1",
+  "actions": [
+    {
+      "productId": "1ed07606-0894-6584-ac01-dd63763181f9",
+      "toDelete": false
+    }
+  ]
+}

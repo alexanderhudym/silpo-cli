@@ -1,0 +1,28 @@
+Found 3 stores (total: 5) (1 receipt named a store the listing has no code for)
+
+id: 1ed43e73-051b-6842-a111-a5ad042eb496
+code: 1998
+companyId: 1ec88c5d-a050-669c-8467-570a157f3e31
+address: Київ, просп. Володимира Івасюка, 46
+coordinates: 50.52022, 30.51452
+pickup
+open
+1 receipt, last 2026-07-30 09:02
+
+id: 1ee2b0a3-9f41-6c7e-91ad-7d1a0b53c204
+code: 1932
+companyId: 1ec88c5d-0000-669c-8467-570a157f3e31
+address: Львів
+coordinates: 49.8419, 24.0315
+no pickup
+open unknown
+0.85 km from work, Львів, Личаківська, буд. 12А (49.837739, 24.041416)
+
+id: 1ee15e2a-7c41-6b83-9d52-4b7d0e93c468
+code: 791091
+companyId: 1ec88c5d-a050-669c-8467-570a157f3e31
+address: вул. Гагаріна, 1
+coordinates: 49.8397, 24.0297
+pickup
+open
+0.87 km from work, Львів, Личаківська, буд. 12А (49.837739, 24.041416)

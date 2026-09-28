@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "summary": "Found 1 similar products",
+  "products": [
+    {
+      "id": "1ed07632-a969-664a-b656-dd63763181f9",
+      "name": "Яйця перепелині «Премія»®",
+      "slug": "yaitsia-perepelyni-premiia-587355",
+      "price": 72.99,
+      "oldPrice": null,
+      "stock": 27,
+      "available": true,
+      "image": "https://images.silpo.ua/v2/products/500x500/webp/e16882d2-4700-484d-8b85-a984f1edda5b.png",
+      "weighted": false,
+      "step": 1,
+      "displayRatio": "20шт",
+      "specialPrices": null,
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+      "externalProductId": 587355
+    }
+  ],
+  "meta": {
+    "total": 1
+  }
+}

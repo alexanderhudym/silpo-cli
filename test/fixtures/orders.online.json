@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "summary": "Found 2 orders (total: 11)",
+  "orders": [
+    {
+      "orderId": "1f0b50bc-84a0-6ffe-b695-fa1be8e97055",
+      "number": "10000042",
+      "status": "received",
+      "createdAt": "2026-04-15T07:41:28+00:00",
+      "amount": 218.36,
+      "discount": 24.5,
+      "delivery": {
+        "type": "DeliveryHome",
+        "timeSlot": {
+          "from": "2026-04-15T09:30:00+00:00",
+          "to": "2026-04-15T11:00:00+00:00"
+        },
+        "deliveredAt": "2026-04-15T10:10:23+00:00"
+      },
+      "address": {
+        "city": "Київ",
+        "street": "вулиця Хрещатик",
+        "building": "1",
+        "apartment": "12"
+      },
+      "products": [
+        {
+          "id": "1ed07632-a969-664a-b656-dd63763181f9",
+          "name": "Яйця перепелині «Премія»®",
+          "price": 72.99,
+          "quantity": 2,
+          "subtotal": 145.98,
+          "removed": false,
+          "image": "https://images.silpo.ua/v2/products/500x500/webp/e16882d2-4700-484d-8b85-a984f1edda5b.png",
+          "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+          "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468"
+        },
+        {
+          "id": "1ed07699-ed22-615e-a6cd-5f148feebb3f",
+          "name": "Молоко пастеризоване «Яготинське» 2,6%",
+          "price": 61.49,
+          "quantity": 1,
+          "subtotal": 61.49,
+          "removed": false,
+          "image": "https://images.silpo.ua/v2/products/500x500/webp/8d5cd119-9495-45d1-bfbf-5fdfd589b909.png",
+          "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+          "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468"
+        },
+        {
+          "id": "1ed075df-6db4-6e90-bfca-dd63763181f9",
+          "name": "Цукіні",
+          "price": 39.99,
+          "quantity": 0.528,
+          "subtotal": 21.11,
+          "removed": true,
+          "image": null,
+          "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+          "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468"
+        }
+      ]
+    },
+    {
+      "orderId": "1f0b50bc-9d2e-6a41-b0c7-fa1be8e97056",
+      "number": null,
+      "status": "processing",
+      "createdAt": "2026-08-19T14:05:00+00:00",
+      "amount": 72.99,
+      "discount": 0,
+      "delivery": null,
+      "address": null,
+      "products": [
+        {
+          "id": "1ed07632-a969-664a-b656-dd63763181f9",
+          "name": "Яйця перепелині «Премія»®",
+          "price": 72.99,
+          "quantity": 1,
+          "subtotal": 72.99,
+          "removed": false,
+          "image": null,
+          "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+          "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "limit": 2,
+    "offset": 0,
+    "total": 11
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "summary": "Found 2 products across 2 search queries",
+  "queries": [
+    {
+      "query": "молоко",
+      "totalFound": 2,
+      "products": [
+        {
+          "id": "1f18a0dd-a1ff-6b16-936b-993049b0fabd",
+          "name": "Молоко ультрапастеризоване Яготинське 2,5% тетра",
+          "slug": "moloko-ultrapasteryzovane-yagotynske-2-5-tetra-1034354",
+          "price": 69.99,
+          "oldPrice": null,
+          "stock": 239,
+          "available": true,
+          "image": "https://images.silpo.ua/v2/products/500x500/webp/2a8de111-df1a-4c04-bf2e-fea90b0c338d.png",
+          "weighted": false,
+          "step": 1,
+          "displayRatio": "950г",
+          "specialPrices": null,
+          "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+          "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+          "externalProductId": 1034354
+        },
+        {
+          "id": "1ed07699-ed22-615e-a6cd-5f148feebb3f",
+          "name": "Молоко пастеризоване «Яготинське» 2,6%",
+          "slug": "moloko-pasteryzovane-yagotynske-2-6-866829",
+          "price": 61.49,
+          "oldPrice": null,
+          "stock": 109,
+          "available": true,
+          "image": "https://images.silpo.ua/v2/products/500x500/webp/8d5cd119-9495-45d1-bfbf-5fdfd589b909.png",
+          "weighted": false,
+          "step": 1,
+          "displayRatio": "870г",
+          "specialPrices": null,
+          "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+          "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+          "externalProductId": 866829
+        }
+      ]
+    },
+    {
+      "query": "ххххнетакого",
+      "totalFound": 0,
+      "products": []
+    }
+  ],
+  "meta": {
+    "totalQueries": 2,
+    "totalProducts": 2
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "silpo",
+  "description": "CLI for the Silpo grocery MCP: search products, manage the cart, check profile and loyalty data, and look up stores, addresses, and delivery slots, printed as compact key-value lines instead of raw JSON.",
+  "version": "0.1.0"
+}

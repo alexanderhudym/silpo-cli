@@ -1,0 +1,14 @@
+Mr Тестенко Богдан
++380671234567
+bohdan.testenko@example.com
+birthday: 1990-05-12
+
+barcode: 0249999999999
+card: Постійна
+bonus: 107.56 UAH
+Regular: 102.78
+Moneybox: 4.78
+
+You don't have an active Плюхс premium subscription. You can subscribe.
+web: https://silpo.ua/subscription?utm_source=web&utm_medium=silpo&utm_campaign=mcp
+mobile: https://link.silpo.ua/w4rW

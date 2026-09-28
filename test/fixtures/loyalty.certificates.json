@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "summary": "Found 2 certificates",
+  "certificates": [
+    {
+      "id": 918273,
+      "createdAt": "2026-06-01T09:00:00+00:00",
+      "totalPrice": 500,
+      "barcode": "9990001234567",
+      "pincode": "1234",
+      "expireDate": "2027-06-01T00:00:00+00:00",
+      "title": "Подарунковий сертифікат 500 грн",
+      "image": null
+    },
+    {
+      "id": 918274,
+      "createdAt": "2026-07-15T12:30:00+00:00",
+      "totalPrice": 1000,
+      "barcode": "9990009876543",
+      "pincode": null,
+      "expireDate": null,
+      "title": null,
+      "image": null
+    }
+  ]
+}

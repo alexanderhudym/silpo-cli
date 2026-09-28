@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "coupon": {
+    "id": 4471203,
+    "active": true,
+    "state": "available",
+    "useWay": "Пред'явіть картку на касі",
+    "beginDate": "2026-08-01T00:00:00+00:00",
+    "endDate": "2026-08-31T23:59:59+00:00",
+    "usedCount": 1,
+    "description": "-30% на другу піцу",
+    "limitText": "Не більше 3 разів",
+    "warningText": null,
+    "rewardText": "-30%",
+    "rewardValue": 30,
+    "image": "https://content.silpo.ua/coupons/4471203.png"
+  }
+}

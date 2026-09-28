@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "summary": "Found 3 saved addresses",
+  "addresses": [
+    {
+      "id": "1ef1b2c3-8ac6-6f71-9c6d-9e4a7d0b5c86",
+      "tag": "home",
+      "city": "Київ",
+      "street": "Хрещатик",
+      "building": "1",
+      "apartment": "12",
+      "floor": "3",
+      "entrance": "2",
+      "latitude": 50.4474710,
+      "longitude": 30.5215061234,
+      "comment": "домофон не працює"
+    },
+    {
+      "id": "1ef1b2c3-9bd7-6082-8d7e-af5b8e1c6d97",
+      "tag": "work",
+      "city": "Львів",
+      "street": "Личаківська",
+      "building": "12А",
+      "apartment": null,
+      "floor": null,
+      "entrance": null,
+      "latitude": 49.837739,
+      "longitude": 24.041416,
+      "comment": null
+    },
+    {
+      "id": "1ef1b2c3-ace8-6193-9e8f-b06c9f2d7ea8",
+      "tag": null,
+      "city": "Одеса",
+      "street": null,
+      "building": null,
+      "apartment": null,
+      "floor": null,
+      "entrance": null,
+      "latitude": null,
+      "longitude": null,
+      "comment": null
+    }
+  ]
+}

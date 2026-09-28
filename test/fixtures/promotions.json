@@ -1,0 +1,66 @@
+{
+  "success": true,
+  "summary": "Found 10 active promotions",
+  "promotions": [
+    {
+      "code": "additional",
+      "title": "Додаткові пропозиції",
+      "productCount": 2979,
+      "url": "https://silpo.ua/offers/additional"
+    },
+    {
+      "code": "only_online",
+      "title": "Тільки Онлайн",
+      "productCount": 1576,
+      "url": "https://silpo.ua/offers/only_online"
+    },
+    {
+      "code": "znovu-v-shkolu",
+      "title": "Знову в школу",
+      "productCount": 625,
+      "url": "https://silpo.ua/offers/znovu-v-shkolu"
+    },
+    {
+      "code": "melkoopt",
+      "title": "Гуртом дешевше",
+      "productCount": 593,
+      "url": "https://silpo.ua/offers/melkoopt"
+    },
+    {
+      "code": "cinotyzhyky",
+      "title": "Цінотижики",
+      "productCount": 537,
+      "url": "https://silpo.ua/offers/cinotyzhyky"
+    },
+    {
+      "code": "cinodidjiky",
+      "title": "Цінодіджики",
+      "productCount": 231,
+      "url": "https://silpo.ua/offers/cinodidjiky"
+    },
+    {
+      "code": "akciyi-vlasnogo-importu",
+      "title": "Акції Власного імпорту",
+      "productCount": 47,
+      "url": "https://silpo.ua/offers/akciyi-vlasnogo-importu"
+    },
+    {
+      "code": "back-to-school",
+      "title": "Back to School",
+      "productCount": 39,
+      "url": "https://silpo.ua/offers/back-to-school"
+    },
+    {
+      "code": "kupuy_ta_zaoshadjuy",
+      "title": "Купуй та заощаджуй",
+      "productCount": 21,
+      "url": "https://silpo.ua/offers/kupuy_ta_zaoshadjuy"
+    },
+    {
+      "code": "monstr-rozihrash",
+      "title": "Розіграш Монстр",
+      "productCount": 8,
+      "url": "https://silpo.ua/offers/monstr-rozihrash"
+    }
+  ]
+}

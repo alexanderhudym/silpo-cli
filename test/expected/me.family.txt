@@ -1,0 +1,22 @@
+Found 2 members, 1 child and 2 pets
+family: Тестенки
+
+members
+name: Богдан
+phone: +380671234567
+since: 2023-04-11 11:15
+me
+
+phone: +380501234567
+since: 2024-02-03 10:40
+
+children
+name: Марія
+slug: mariia
+born: 2019-09-01
+
+pets
+name: Мурчик
+slug: cat
+
+slug: dog

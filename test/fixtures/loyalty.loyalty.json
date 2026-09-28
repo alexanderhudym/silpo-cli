@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "loyalty": {
+    "card": {
+      "barcode": "0249999999999",
+      "typeName": "Постійна",
+      "memberId": 10000001
+    },
+    "balance": {
+      "total": 107.56,
+      "currency": "UAH",
+      "accounts": [
+        {
+          "type": "Regular",
+          "amount": 102.78
+        },
+        {
+          "type": "Moneybox",
+          "amount": 4.78
+        }
+      ]
+    }
+  }
+}

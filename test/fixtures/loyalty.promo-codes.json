@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "summary": "Found 2 promo codes",
+  "promoCodes": [
+    {
+      "id": "1ef0a1b2-5d93-6c4e-9f3a-6b9d4a7c2e53",
+      "code": "SUMMER30",
+      "title": "-30 грн на замовлення від 500 грн",
+      "active": true
+    },
+    {
+      "id": "1ef0a1b2-6ea4-6d5f-8a4b-7c2e5b8d3f64",
+      "code": "WELCOME",
+      "title": null,
+      "active": false
+    }
+  ],
+  "meta": {
+    "total": 2
+  }
+}

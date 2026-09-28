@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "summary": "Found 6644 products (showing 3)",
+  "products": [
+    {
+      "id": "1edb8c52-3b12-6e62-87a9-39a07e017bad",
+      "name": "Креветка королівська сира дефростована 40/60",
+      "slug": "krevetka-korolivska-syra-defrostovana-40-60-864122",
+      "price": 299,
+      "oldPrice": 649,
+      "stock": 47.6,
+      "available": true,
+      "image": "https://images.silpo.ua/v2/products/500x500/webp/93ebb7bd-c40f-482f-aeb0-ec17065288bc.png",
+      "weighted": true,
+      "step": 0.85,
+      "displayRatio": "100г",
+      "specialPrices": null,
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+      "externalProductId": 864122
+    },
+    {
+      "id": "1edafa8e-3cdd-6ae0-a73c-df42cf4d0987",
+      "name": "Піца Американа",
+      "slug": "pitsa-amerykana-747288",
+      "price": 99,
+      "oldPrice": 159,
+      "stock": 80,
+      "available": true,
+      "image": "https://images.silpo.ua/v2/products/500x500/webp/0fafac30-91f6-47f9-9f22-a6879f08cda9.png",
+      "weighted": false,
+      "step": 1,
+      "displayRatio": "500г",
+      "specialPrices": null,
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+      "externalProductId": 747288
+    },
+    {
+      "id": "1ed075da-652f-6cfc-848a-dd63763181f9",
+      "name": "Сирок глазурований «Волошкове поле» з ваніллю 26%",
+      "slug": "syrok-glazurovanyi-voloshkove-pole-z-vanilliu-26-28205",
+      "price": 12.99,
+      "oldPrice": 19.99,
+      "stock": 116,
+      "available": true,
+      "image": "https://images.silpo.ua/v2/products/500x500/webp/0bb905d6-aaa9-43c4-80f6-388234af2654.png",
+      "weighted": false,
+      "step": 1,
+      "displayRatio": "36г",
+      "specialPrices": null,
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+      "externalProductId": 28205
+    }
+  ],
+  "meta": {
+    "limit": 3,
+    "offset": 0,
+    "total": 6644
+  }
+}

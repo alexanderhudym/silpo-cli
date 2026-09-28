@@ -1,0 +1,9 @@
+/tools
+.mcp.json
+node_modules/
+dist/
+.claude/settings.local.json
+skills-lock.json
+/.playwright-mcp
+docs/
+.DS_Store

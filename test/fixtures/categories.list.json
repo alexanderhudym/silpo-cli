@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "summary": "Found 9 categories (total: 9)",
+  "categories": [
+    {
+      "id": "1ef32d81-6701-64f0-be99-cbf14418b734",
+      "slug": "spetsialni-propozytsii-5189",
+      "title": "Добрі промо",
+      "parentId": null
+    },
+    {
+      "id": "1f19a342-99e6-61ec-93a5-3167117112a1",
+      "slug": "20-povertayemo-balobonusamy",
+      "title": "20% повертаємо балобонусами",
+      "parentId": "1ef32d81-6701-64f0-be99-cbf14418b734"
+    },
+    {
+      "id": "1f19b09c-76b0-6486-936e-d99c656f2d59",
+      "slug": "5-1-na-obrane-pyvo",
+      "title": "5+1 на обране пиво",
+      "parentId": "1ef32d81-6701-64f0-be99-cbf14418b734"
+    },
+    {
+      "id": "1f19c727-169f-6352-8a00-01d5ade6f7a6",
+      "slug": "ptaaak-na-na-tsukerky-u-korobkakh",
+      "title": "Птааак на цукерки у коробках",
+      "parentId": "1ef32d81-6701-64f0-be99-cbf14418b734"
+    },
+    {
+      "id": "1ef219ab-4b5a-614c-8798-fb95d1a7343c",
+      "slug": "plius-na-zhyttia-5043",
+      "title": "Збір «Плюс на життя»",
+      "parentId": "1ef32d81-6701-64f0-be99-cbf14418b734"
+    },
+    {
+      "id": "1ef2284a-c1d4-6608-b1ff-d3df253f9eee",
+      "slug": "1d3d58f2e1e5460d3a81a31fd1f61dee",
+      "title": "Їжа та напої",
+      "parentId": "1ef219ab-4b5a-614c-8798-fb95d1a7343c"
+    },
+    {
+      "id": "1ef32d0e-53f5-612c-b582-bddfcdbed61e",
+      "slug": "9e17b9fdf887c88029f4f6ee0e813b83",
+      "title": "Товари для дому",
+      "parentId": "1ef219ab-4b5a-614c-8798-fb95d1a7343c"
+    },
+    {
+      "id": "1ef44167-08cc-6772-8f71-1954cab1821b",
+      "slug": "f98973d6a256b81fc4ec76d87b85f2d0",
+      "title": "Б'юті та гігієна",
+      "parentId": "1ef219ab-4b5a-614c-8798-fb95d1a7343c"
+    },
+    {
+      "id": "1ef32d0c-ae90-6c28-9ae0-c7ec585d4757",
+      "slug": "9cf9f500038ff6026e23a8eb4287df5f",
+      "title": "Товари для тварин",
+      "parentId": "1ef219ab-4b5a-614c-8798-fb95d1a7343c"
+    }
+  ],
+  "meta": {
+    "limit": 1000,
+    "offset": 0,
+    "total": 9
+  }
+}

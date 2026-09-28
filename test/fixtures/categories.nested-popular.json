@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "summary": "Found 2 popular categories",
+  "categories": [
+    {
+      "id": "1edb13bf-1001-6cd4-b978-53f89724fa3a",
+      "slug": "syr",
+      "title": "Сир",
+      "url": "https://silpo.ua/category/syr"
+    },
+    {
+      "id": "1edb13bf-1002-6cd4-b978-53f89724fa3a",
+      "slug": "ovochi-frukty",
+      "title": "Овочі та фрукти",
+      "url": "https://silpo.ua/category/ovochi-frukty"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "silpo",
+  "owner": {
+    "name": "Alexander Hudym",
+    "email": "alexanderhudym@gmail.com"
+  },
+  "metadata": {
+    "description": "The skill for the silpo CLI, a token-frugal client for the Silpo grocery MCP server.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "silpo",
+      "source": "./plugin",
+      "description": "Search Silpo groceries, build a cart, and look up stores, addresses, and delivery slots through the silpo CLI.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Alexander Hudym"
+      },
+      "category": "productivity",
+      "keywords": ["silpo", "grocery", "shopping", "cli", "ukraine"]
+    }
+  ]
+}

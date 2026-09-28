@@ -1,0 +1,12 @@
+Found 2 certificates
+
+barcode: 9990001234567
+value: 500
+pincode: 1234
+title: Подарунковий сертифікат 500 грн
+issued: 2026-06-01 12:00
+until: 2027-06-01 03:00
+
+barcode: 9990009876543
+value: 1000
+issued: 2026-07-15 15:30

@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "product": {
+    "id": "1edbc525-bc65-6f62-8079-1df4cd9fb6b0",
+    "name": "Креветка варена 80/100",
+    "slug": "krevetka-varena-80-100-880804",
+    "price": 399,
+    "oldPrice": 579,
+    "stock": 8,
+    "available": true,
+    "weighted": false,
+    "step": 1,
+    "ratio": "кг",
+    "displayRatio": "100г",
+    "url": "https://silpo.ua/product/krevetka-varena-80-100-880804",
+    "images": [
+      "https://images.silpo.ua/v2/products/500x500/webp/ae456c06-7ce0-418a-85aa-0822008fa065.png",
+      "https://images.silpo.ua/v2/products/500x500/webp/a444ca6d-7192-41d0-ac86-f1b1231deb95.jpg",
+      "https://images.silpo.ua/v2/products/500x500/webp/1abed556-f56c-43c1-98cd-4d72c8c8ffb6.jpg"
+    ],
+    "attributes": {
+      "Склад": "КРЕВЕТКА варена у панцирі (РАКОПОДІБНІ)",
+      "Містить алергени": "РАКОПОДІБНІ",
+      "Країна": "Україна",
+      "Торгова марка": "Без ТМ",
+      "Продавець": "ТОВ «СІЛЬПО-ФУД»",
+      "Енергетична цінність (кКал/кДЖ)": "75/314",
+      "Білки (г)": 18,
+      "Жири (г)": 0.3,
+      "Вуглеводи (г)": 0
+    },
+    "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+    "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468"
+  }
+}

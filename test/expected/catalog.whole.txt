@@ -1,0 +1,106 @@
+Found 10 promotions
+
+code: additional
+title: Додаткові пропозиції
+products: 2979
+
+code: only_online
+title: Тільки Онлайн
+products: 1576
+
+code: znovu-v-shkolu
+title: Знову в школу
+products: 625
+
+code: melkoopt
+title: Гуртом дешевше
+products: 593
+
+code: cinotyzhyky
+title: Цінотижики
+products: 537
+
+code: cinodidjiky
+title: Цінодіджики
+products: 231
+
+code: akciyi-vlasnogo-importu
+title: Акції Власного імпорту
+products: 47
+
+code: back-to-school
+title: Back to School
+products: 39
+
+code: kupuy_ta_zaoshadjuy
+title: Купуй та заощаджуй
+products: 21
+
+code: monstr-rozihrash
+title: Розіграш Монстр
+products: 8
+
+Found 7 categories
+dropped for holding nothing: 3
+popular joined: 2
+
+moloko-yaitsia Молочні продукти та яйця (60) (popular: syr Сир)
+  syr Сир (12) (popular)
+ovochi-frukty Овочі та фрукти (34) (popular)
+napoi Напої (48)
+  kava Кава (8)
+  chai Чай (15)
+    chai-zelenyi Чай зелений (3)
+
+Found 17 sets
+
+slug: dlia-smachnoi-vecheri
+title: До смачного перегляду
+
+slug: klatsniznyzhky
+title: Тільки онлайн
+
+slug: smakuizmorshynska
+title: Смакуй з Моршинська
+
+slug: pitsa-sushi-ta-burhery
+title: Піца, суші та бургери
+
+slug: ferma
+title: Знижки від ТМ Ферма
+
+slug: vyno-vivino
+title: Вино з рейтингом Vivino
+
+slug: washandfree
+title: Знижки на Wash&Free
+
+slug: pepsi
+title: Чемні чи бешкетні
+
+slug: huggies-sales
+title: Знижки від ТМ Huggies
+
+slug: henkel-sale
+title: Знижки до -55% на улюблені бренди Henkel
+
+slug: zewa-sale
+title: Zewa - відчуття турботи
+
+slug: dlia-lehkykh-momentiv
+title: Для легких моментів
+
+slug: lvivske-310
+title: Львівське 310
+
+slug: super-znyzhky-na-pobutovu-khimiiu
+title: Супер знижки на побутову хімію
+
+slug: karcher-sale
+title: 20% повертаємо балобонусами
+
+slug: ygotynske
+title: Знижки від ТМ Яготинське
+
+slug: ekskliuzyvnoonlain
+title: Ексклюзивні знижки онлайн

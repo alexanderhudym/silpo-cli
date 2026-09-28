@@ -1,0 +1,35 @@
+Found 2 offline orders (total: 24)
+
+store: просп. Володимира Івасюка, 46
+city: Київ
+at: 2026-08-09 12:19
+sum: 473.65
+discount: 211
+bonuses: 1.64
+rewards
+  YEZZZ! Купуй та отримуй безкоштовний зв'язок: 2408.43
+  Використані балобонуси: 99.26
+products
+  quantity: 0.788кг
+  productId: 1ed075df-6db4-6e90-bfca-dd63763181f9
+  slug: tsukini-51601
+  Цукіні — 39.99 ₴/кг
+
+  quantity: 1
+  Макаронні вироби Garofalo Лінгвіне 500г — 119 ₴
+
+  quantity: -1
+  Макаронні вироби Garofalo Лінгвіне 500г — 119 ₴
+
+  quantity: 1
+  В скарбничку — 0.01 ₴
+
+store: вул. Бережанська, 22
+city: Київ
+at: 2026-07-30 09:02
+sum: 72.99
+products
+  quantity: 1
+  productId: 1ed07632-a969-664a-b656-dd63763181f9
+  slug: yaitsia-perepelyni-premiia-587355
+  Яйця перепелині «Премія»® 20шт — 72.99 ₴

@@ -1,0 +1,40 @@
+Found 2 orders (total: 11)
+
+id: 1f0b50bc-84a0-6ffe-b695-fa1be8e97055
+number: 10000042
+status: received
+created: 2026-04-15 10:41
+amount: 218.36
+discount: 24.5
+delivery: DeliveryHome
+window: 2026-04-15 12:30 - 2026-04-15 14:00
+delivered: 2026-04-15 13:10
+address: Київ, вулиця Хрещатик, буд. 1, кв. 12
+branchId: 1ee15e2a-7c41-6b83-9d52-4b7d0e93c468
+products
+  id: 1ed07632-a969-664a-b656-dd63763181f9
+  quantity: 2
+  total: 145.98
+  Яйця перепелині «Премія»® — 72.99 ₴
+
+  id: 1ed07699-ed22-615e-a6cd-5f148feebb3f
+  quantity: 1
+  total: 61.49
+  Молоко пастеризоване «Яготинське» 2,6% — 61.49 ₴
+
+  id: 1ed075df-6db4-6e90-bfca-dd63763181f9
+  quantity: 0.528
+  total: 21.11
+  removed
+  Цукіні — 39.99 ₴
+
+id: 1f0b50bc-9d2e-6a41-b0c7-fa1be8e97056
+status: processing
+created: 2026-08-19 17:05
+amount: 72.99
+branchId: 1ee15e2a-7c41-6b83-9d52-4b7d0e93c468
+products
+  id: 1ed07632-a969-664a-b656-dd63763181f9
+  quantity: 1
+  total: 72.99
+  Яйця перепелині «Премія»® — 72.99 ₴

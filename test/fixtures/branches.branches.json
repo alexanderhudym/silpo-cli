@@ -1,0 +1,77 @@
+{
+  "success": true,
+  "summary": "Found 6 branches (total: 6)",
+  "branches": [
+    {
+      "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "externalId": "1998",
+      "city": "Київ",
+      "address": "просп. Володимира Івасюка, 46",
+      "latitude": "50.5202200000000000",
+      "longitude": "30.5145200000000000",
+      "hasPickup": true,
+      "open": true
+    },
+    {
+      "branchId": "1eda8887-bf7c-6f38-b0cb-9503162b5586",
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "externalId": "2025",
+      "city": "Київ",
+      "address": "вул. Бережанська, 22",
+      "latitude": "50.5186900000000000",
+      "longitude": "30.4561600000000000",
+      "hasPickup": true,
+      "open": true
+    },
+    {
+      "branchId": "1eda888d-b60d-66f4-a557-03a302d993f3",
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "externalId": "3319",
+      "city": "Київ",
+      "address": "вул. Бережанська, 22",
+      "latitude": "50.5186900000000000",
+      "longitude": "30.4561600000000000",
+      "hasPickup": null,
+      "open": true
+    },
+    {
+      "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468",
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "externalId": "791091",
+      "city": "",
+      "address": "вул. Гагаріна, 1",
+      "latitude": "49.8397000000000000",
+      "longitude": "24.0297000000000000",
+      "hasPickup": true,
+      "open": true
+    },
+    {
+      "branchId": "1ee2b0a3-9f41-6c7e-91ad-7d1a0b53c204",
+      "companyId": "1ec88c5d-0000-669c-8467-570a157f3e31",
+      "externalId": "1932",
+      "city": "Львів",
+      "address": null,
+      "latitude": "49.8419000000000000",
+      "longitude": "24.0315000000000000",
+      "hasPickup": false,
+      "open": null
+    },
+    {
+      "branchId": "1edb2828-37e2-6690-af0a-5f4f054120bc",
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "externalId": "delete_filia_silpo_ivasuka46",
+      "city": "",
+      "address": "",
+      "latitude": "50.5500000000000000",
+      "longitude": "30.5500000000000000",
+      "hasPickup": null,
+      "open": false
+    }
+  ],
+  "meta": {
+    "limit": 6,
+    "offset": 0,
+    "total": 6
+  }
+}

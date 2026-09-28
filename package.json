@@ -1,0 +1,37 @@
+{
+  "name": "silpo-cli",
+  "version": "0.1.0",
+  "description": "Token-frugal CLI client for the Silpo MCP server",
+  "type": "module",
+  "bin": {
+    "silpo": "dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=26"
+  },
+  "scripts": {
+    "prebuild": "rm -rf dist",
+    "build": "tsc -p .",
+    "start": "node dist/cli.js",
+    "postbuild": "chmod +x dist/cli.js",
+    "pretest": "npm run build",
+    "test": "node --test 'test/**/*.test.ts'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "commander": "^15.0.0",
+    "cyrillic-to-translit-js": "^3.2.1",
+    "minisearch": "^7.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "gpt-tokenizer": "^4.0.0",
+    "typescript": "^7.0.2"
+  }
+}

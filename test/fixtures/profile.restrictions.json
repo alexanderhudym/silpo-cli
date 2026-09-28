@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "summary": "Found 3 food restrictions",
+  "restrictions": [
+    { "slug": "vegan", "name": "Веган" },
+    { "slug": "lactose-free", "name": "Без лактози" },
+    { "slug": "no-sugar", "name": null }
+  ]
+}

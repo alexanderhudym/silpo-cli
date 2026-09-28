@@ -1,0 +1,15 @@
+Found 3 saved addresses
+
+id: 1ef1b2c3-8ac6-6f71-9c6d-9e4a7d0b5c86
+tag: home
+address: Київ, Хрещатик, буд. 1, під. 2, пов. 3, кв. 12
+coordinates: 50.447471, 30.521506
+comment: домофон не працює
+
+id: 1ef1b2c3-9bd7-6082-8d7e-af5b8e1c6d97
+tag: work
+address: Львів, Личаківська, буд. 12А
+coordinates: 49.837739, 24.041416
+
+id: 1ef1b2c3-ace8-6193-9e8f-b06c9f2d7ea8
+address: Одеса

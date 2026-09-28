@@ -1,0 +1,28 @@
+Found 3 stores (total: 3) (1 receipt named a store the listing has no code for)
+
+id: 1ed43e73-051b-6842-a111-a5ad042eb496
+code: 1998
+companyId: 1ec88c5d-a050-669c-8467-570a157f3e31
+address: Київ, просп. Володимира Івасюка, 46
+coordinates: 50.52022, 30.51452
+pickup
+open
+1 receipt, last 2026-07-30 09:02; resolved by store handle
+
+id: 1eda8887-bf7c-6f38-b0cb-9503162b5586
+code: 2025
+companyId: 1ec88c5d-a050-669c-8467-570a157f3e31
+address: Київ, вул. Бережанська, 22
+coordinates: 50.51869, 30.45616
+pickup
+open
+4.13 km from Київ, просп. Володимира Івасюка, 46 (50.52022, 30.51452)
+
+id: 1eda888d-b60d-66f4-a557-03a302d993f3
+code: 3319
+companyId: 1ec88c5d-a050-669c-8467-570a157f3e31
+address: Київ, вул. Бережанська, 22
+coordinates: 50.51869, 30.45616
+pickup unknown
+open
+4.13 km from Київ, просп. Володимира Івасюка, 46 (50.52022, 30.51452)

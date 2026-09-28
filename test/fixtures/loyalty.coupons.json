@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "summary": "Found 2 coupons",
+  "coupons": [
+    {
+      "id": 4471203,
+      "active": true,
+      "useWay": "Пред'явіть картку на касі",
+      "beginDate": "2026-08-01T00:00:00+00:00",
+      "endDate": "2026-08-31T23:59:59+00:00",
+      "description": "-30% на другу піцу",
+      "limitText": "Не більше 3 разів",
+      "warningText": null,
+      "image": "https://content.silpo.ua/coupons/4471203.png"
+    },
+    {
+      "id": 4471204,
+      "active": false,
+      "useWay": null,
+      "beginDate": null,
+      "endDate": "2026-07-31T23:59:59+00:00",
+      "description": "Безкоштовна кава",
+      "limitText": null,
+      "warningText": "Термін дії вичерпано",
+      "image": null
+    }
+  ]
+}

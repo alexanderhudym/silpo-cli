@@ -1,0 +1,129 @@
+{
+  "success": true,
+  "cart": {
+    "id": "6156c5c8-cb19-4f23-ad3c-ba981698b91f",
+    "deliveryType": "SelfPickup",
+    "timeslot": {
+      "start": "2026-08-21T06:00:00+00:00",
+      "end": "2026-08-21T06:30:00+00:00"
+    },
+    "address": {
+      "addressType": "self-pickup",
+      "latitude": "50.52022",
+      "longitude": "30.51452",
+      "courrierComment": null,
+      "phone": null,
+      "country": null,
+      "postCode": null,
+      "region": null,
+      "district": null,
+      "city": "Київ",
+      "street": "просп. Володимира Івасюка, 46",
+      "house": "",
+      "locality": "просп. Володимира Івасюка, 46",
+      "polygonId": null
+    },
+    "shipments": [
+      {
+        "id": "c9803b29-cf4c-40cf-a9f6-76a7b06c6579",
+        "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+        "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468",
+        "products": [
+          {
+            "productId": "1ed07609-566a-6c24-829d-dd63763181f9",
+            "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+            "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468",
+            "slug": "kuriache-file-461800",
+            "name": "Куряче філе",
+            "image": "https://images.silpo.ua/v2/products/500x500/webp/ac8a8508-3e0d-4125-a3b3-c7599b2798d2.png",
+            "ratio": "100г",
+            "quantity": 1,
+            "price": 184,
+            "oldPrice": 229,
+            "subTotal": 229,
+            "subDiscount": 45,
+            "total": 184,
+            "stock": 184,
+            "weighted": true,
+            "addToBasketStep": 0.5,
+            "comment": "без кістки, будь ласка"
+          },
+          {
+            "productId": "1edb8c52-3b12-6e62-87a9-39a07e017bad",
+            "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+            "branchId": "1ee15e2a-7c41-6b83-9d52-4b7d0e93c468",
+            "slug": "krevetka-korolivska-syra-defrostovana-40-60-864122",
+            "name": "Креветка королівська сира дефростована 40/60",
+            "image": "https://images.silpo.ua/v2/products/500x500/webp/93ebb7bd-c40f-482f-aeb0-ec17065288bc.png",
+            "ratio": "100г",
+            "quantity": 0.85,
+            "price": 299,
+            "oldPrice": 649,
+            "subTotal": 551.65,
+            "subDiscount": 297.5,
+            "total": 254.15,
+            "stock": 45.9,
+            "weighted": true,
+            "addToBasketStep": 0.85,
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "feedbackContacts": "call",
+    "feedbackChanges": "approvedChanges",
+    "promoCode": null,
+    "packageType": "UseSilpoBags",
+    "paymentType": "Unknown",
+    "certificates": [],
+    "isAdultConfirmed": true,
+    "calculation": {
+      "total": 438.15,
+      "totalAfterDiscounts": 438.15,
+      "certificatesTotal": 0,
+      "subTotal": 780.65,
+      "subDiscount": 342.5,
+      "productsTotal": 438.15,
+      "delivery": {
+        "total": 0,
+        "totalWeight": 1.85,
+        "deliveryExpressByPromise": null
+      },
+      "promoCode": null,
+      "payment": {
+        "availableTypes": [
+          "Cashdesk",
+          "Card",
+          "Masterpass",
+          "ApplePay",
+          "GooglePay",
+          "BVR",
+          "B2B"
+        ]
+      },
+      "validations": [
+        {
+          "level": "info",
+          "type": "order",
+          "message": "order.payment_types.disabled",
+          "context": {
+            "reason": "not_available_for_total",
+            "paymentTypes": [
+              "BNPL"
+            ],
+            "total": 438.15,
+            "minTotal": 1000
+          }
+        }
+      ]
+    }
+  },
+  "loyalty": {
+    "bonusAvailable": 107.56,
+    "bonusTotal": 107.56,
+    "bonusRequested": null,
+    "isEnabled": true
+  },
+  "checkoutWebLink": "https://silpo.ua/checkout-new",
+  "checkoutMobileLink": "https://link.silpo.ua/1hbXLDBPFJ8iiZTg7"
+}

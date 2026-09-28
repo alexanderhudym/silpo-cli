@@ -1,0 +1,9 @@
+Found 3 food restrictions
+
+name: Веган
+slug: vegan
+
+name: Без лактози
+slug: lactose-free
+
+slug: no-sugar

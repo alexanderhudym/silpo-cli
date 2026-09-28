@@ -1,0 +1,38 @@
+delivery: SelfPickup
+slot: 2026-08-21 09:00 - 2026-08-21 09:30
+address: Київ, просп. Володимира Івасюка, 46
+total: 438.15
+subTotal: 780.65
+discount: 342.5
+weight: 1.85
+bonus: 107.56 of 107.56
+checkout: https://silpo.ua/checkout-new
+checkoutMobile: https://link.silpo.ua/1hbXLDBPFJ8iiZTg7
+shipments
+  companyId: 1ec88c5d-a050-669c-8467-570a157f3e31
+  branchId: 1ee15e2a-7c41-6b83-9d52-4b7d0e93c468
+  products
+    id: 1ed07609-566a-6c24-829d-dd63763181f9
+    slug: kuriache-file-461800
+    quantity: 1кг
+    total: 184
+    discount: 45
+    stock: 184кг
+    step: 0.5кг
+    comment: без кістки, будь ласка
+    Куряче філе — 184 ₴/кг was 229
+
+    id: 1edb8c52-3b12-6e62-87a9-39a07e017bad
+    slug: krevetka-korolivska-syra-defrostovana-40-60-864122
+    quantity: 0.85кг
+    total: 254.15
+    discount: 297.5
+    stock: 45.9кг
+    step: 0.85кг
+    Креветка королівська сира дефростована 40/60 — 299 ₴/кг was 649
+validations
+  info order: order.payment_types.disabled
+    reason: not_available_for_total
+    paymentTypes: BNPL
+    total: 438.15
+    minTotal: 1000

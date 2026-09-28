@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "summary": "Removed 1 product(s) from cart",
+  "products": [
+    {
+      "productId": "1edb8c52-3b12-6e62-87a9-39a07e017bad"
+    }
+  ]
+}

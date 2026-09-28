@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "summary": "Updated 2 product(s)",
+  "products": [
+    {
+      "productId": "1ed07609-566a-6c24-829d-dd63763181f9",
+      "quantity": 1
+    },
+    {
+      "productId": "1edb8c52-3b12-6e62-87a9-39a07e017bad",
+      "quantity": 0.85
+    }
+  ]
+}

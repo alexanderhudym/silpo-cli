@@ -1,0 +1,29 @@
+{
+  "success": true,
+  "summary": "Found 4 top-level categories",
+  "tree": [
+    {
+      "slug": "napoi",
+      "total": 48,
+      "children": [
+        { "slug": "kava", "total": 8, "children": [] },
+        {
+          "slug": "chai",
+          "total": 15,
+          "children": [{ "slug": "chai-zelenyi", "total": 3, "children": [] }]
+        },
+        { "slug": "sik", "children": [] }
+      ]
+    },
+    {
+      "slug": "moloko-yaitsia",
+      "total": 60,
+      "children": [
+        { "slug": "syr", "total": 12, "children": [] },
+        { "slug": "yaitsia", "children": [] }
+      ]
+    },
+    { "slug": "ovochi-frukty", "total": 34, "children": [] },
+    { "slug": "pobutova-khimiia", "children": [] }
+  ]
+}

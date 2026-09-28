@@ -1,0 +1,21 @@
+Found 3 time slots (3 available)
+
+2026-08-21 09:00 - 2026-08-21 09:30
+type: SelfPickup
+available: yes
+minOrder: 199
+limited: cookedFood, ownCooking
+
+2026-08-21 09:00 - 2026-08-21 10:30
+type: DeliveryHome
+available: yes
+cost: 99
+tiers: 69 from 1299, 1 from 1899
+minOrder: 699
+maxWeight: 30
+limited: cookedFood, ownCooking
+
+2026-08-21 09:30 - 2026-08-21 10:00
+type: SelfPickup
+available: yes
+minOrder: 199

@@ -1,0 +1,105 @@
+schema: spec-driven
+
+context: |
+  Tech stack: TypeScript, Node >= 22, ESM, commander, MCP SDK, node:test.
+  No runtime dependencies beyond those and the ones the active change's proposal declares;
+  prefer the standard library.
+  Tests run the compiled dist/, so `npm test` is the only correct invocation; its pretest builds.
+  Nothing is ever pushed: no agent runs `git push`, opens a pull request, or writes to a remote by
+  any other means. Publishing is the repository owner's alone.
+
+rules:
+  tasks:
+    - >-
+      Group tasks so that one group is one handover to an implementer. A group is self-contained,
+      depends only on groups before it, and touches no file a group running beside it also touches.
+      A group that needs the output of a later group is mis-ordered, not merely coupled.
+    - >-
+      End the file with a "Review checklist" section listing the properties the finished code must
+      hold. Write them as checks against the code, not as a restatement of the tasks. A checklist
+      that repeats the plan makes the reviewer confirm the plan rather than inspect the code.
+    - >-
+      tasks is the last artifact. Before reporting the change complete, have a reader that did not
+      write the artifacts check them - where the change is BREAKING, or touches more than three
+      capabilities, or was written across more than one agent. Give that reader the artifacts and
+      the code, and not this instruction.
+    - >-
+      That reader looks for four things, and not for prose quality. Two artifacts describing one
+      behaviour differently. A capability of the old surface with nowhere to land in the new one. An
+      assumption the specs rest on that nobody checked against the code - a field, a tool parameter,
+      a command that is taken for granted. And whether the measurement the change is justified by
+      can still be taken once the change lands.
+    - >-
+      The reader never edits the artifacts. A reader that edits the specs is a third author without a
+      mandate; it reports and stops.
+    - >-
+      Acting on what it reported is the author's work, and it comes first. Verify each finding against
+      the code, then fix every one you know how to fix - in the artifacts, before the change is
+      reported complete. Do not hand the user a list of defects you were able to repair yourself.
+    - >-
+      Only what survives that pass goes to the user: a finding you could not confirm, one whose fix
+      turns on a decision that is theirs, and one you believe is wrong. Bring those with the reading
+      that settles them, and say which is which.
+
+operations:
+  apply:
+    guidance:
+      - >-
+        Implement each task group with the silpo-implementer subagent. Do not write the code
+        yourself; your job is to route work, hold the cycle limits and report.
+      - >-
+        Implement every task group of the change before any of it is reviewed. Run the groups back
+        to back in order and hold review until the last one has landed. A group reviewed while
+        later groups are still to come is a review of a working tree those groups are about to
+        rewrite, and the file a group leaves half-shaped is reported as a defect it is not.
+      - >-
+        When the last group is done, review the change with the silpo-reviewer subagent. Pass it
+        four things and no more - the change name, the list of files the change changed, the
+        "Review checklist" section of tasks.md, and the verbatim build and test output of the run
+        that followed the last group. The checklist is a set of properties the code must hold; the
+        task steps are the plan, and a reviewer holding the plan checks the plan was followed
+        rather than that the code is right.
+      - >-
+        Withhold the task steps, design.md, and the rest of the implementers' accounts of their own
+        work. Keep the file list as the groups accumulate it, because nothing is committed between
+        them and the working tree is what the reviewer reads.
+      - >-
+        CYCLE LIMIT. Three reviews and four implementer rounds over the change, maximum, alternating
+        implement, review, implement, review, implement, review, implement. The third review is not
+        where the work stops: its confirmed findings go to an implementer like any other review's,
+        and that fourth round is the last. Whatever is still open after it is reported, not fixed.
+      - >-
+        TIME LIMIT. Fifteen minutes per review. At five minutes and at ten, send the running review
+        the time it has left; at fifteen it is stopped and the findings it did produce go to the
+        implementer exactly as a finished review's would. A review is never a reason to halt; only
+        the round count ends the work.
+      - >-
+        The pacing messages carry the time and nothing else. They do not ask for speed: they let the
+        review choose between opening new ground and writing up what it has already confirmed. Where
+        a running review cannot be messaged, the limit still applies and the report says the pacing
+        was not sent.
+      - >-
+        End the work early when a review returns no confirmed findings. Plausible-but-unconfirmed
+        findings do not open another round; carry them to the final report.
+      - >-
+        Report at the end, in one place, everything the run could not settle: findings still open
+        after the last implementer round, every plausible-but-unconfirmed finding, every checklist
+        section no review reached, and every spec finding and rebuttal routed to the user. A run
+        that was cut short says so there, naming what it did not reach.
+      - >-
+        Feed only CONFIRMED findings back to the implementer, verbatim. Do not re-word them, do not
+        add findings of your own, and do not ask for a refactor the review did not name.
+      - >-
+        A SPEC finding and an implementer's rebuttal of a finding both go to the user and never back
+        into a cycle. A requirement that is itself wrong is not fixed by making the code satisfy it
+        harder, and a finding the implementer can show is wrong costs a cycle to implement and
+        breaks working code.
+      - >-
+        Run the build and the full test suite once after the last group and before the review, and
+        report failures with their output. A failing suite is reported as failing, and it is what
+        the reviewer is handed.
+  archive:
+    guidance:
+      - >-
+        Before archiving, confirm every delta requirement is reflected in the main spec it belongs
+        to, and that no requirement was dropped in the merge.

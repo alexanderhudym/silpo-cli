@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "summary": "Found 10 categories (total: 10)",
+  "categories": [
+    {
+      "id": "1ee15e2a-0001-6df4-ab6d-4b7d0e93c468",
+      "slug": "napoi",
+      "title": "Напої",
+      "parentId": null
+    },
+    {
+      "id": "1ee15e2a-0002-6df4-ab6d-4b7d0e93c468",
+      "slug": "kava",
+      "title": "Кава",
+      "parentId": "1ee15e2a-0001-6df4-ab6d-4b7d0e93c468"
+    },
+    {
+      "id": "1ee15e2a-0003-6df4-ab6d-4b7d0e93c468",
+      "slug": "chai",
+      "title": "Чай",
+      "parentId": "1ee15e2a-0001-6df4-ab6d-4b7d0e93c468"
+    },
+    {
+      "id": "1ee15e2a-0004-6df4-ab6d-4b7d0e93c468",
+      "slug": "chai-zelenyi",
+      "title": "Чай зелений",
+      "parentId": "1ee15e2a-0003-6df4-ab6d-4b7d0e93c468"
+    },
+    {
+      "id": "1ee15e2a-0005-6df4-ab6d-4b7d0e93c468",
+      "slug": "sik",
+      "title": "Сік",
+      "parentId": "1ee15e2a-0001-6df4-ab6d-4b7d0e93c468"
+    },
+    {
+      "id": "1ee15e2a-0006-6df4-ab6d-4b7d0e93c468",
+      "slug": "moloko-yaitsia",
+      "title": "Молочні продукти та яйця",
+      "parentId": null
+    },
+    {
+      "id": "1ee15e2a-0007-6df4-ab6d-4b7d0e93c468",
+      "slug": "syr",
+      "title": "Сир",
+      "parentId": "1ee15e2a-0006-6df4-ab6d-4b7d0e93c468"
+    },
+    {
+      "id": "1ee15e2a-0008-6df4-ab6d-4b7d0e93c468",
+      "slug": "yaitsia",
+      "title": "Яйця",
+      "parentId": "1ee15e2a-0006-6df4-ab6d-4b7d0e93c468"
+    },
+    {
+      "id": "1ee15e2a-0009-6df4-ab6d-4b7d0e93c468",
+      "slug": "ovochi-frukty",
+      "title": "Овочі та фрукти",
+      "parentId": null
+    },
+    {
+      "id": "1ee15e2a-000a-6df4-ab6d-4b7d0e93c468",
+      "slug": "pobutova-khimiia",
+      "title": "Побутова хімія",
+      "parentId": null
+    }
+  ],
+  "meta": { "limit": 1000, "offset": 0, "total": 10 }
+}

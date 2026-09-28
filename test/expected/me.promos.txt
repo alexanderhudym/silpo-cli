@@ -1,0 +1,26 @@
+personal
+  Found 2 personal promos, 1 selected of 2 allowed
+
+  id: 257660
+  description: +10% балобонусів на молочні продукти
+  selected
+  reward: +10%
+  value: 10
+  from: 2026-08-01 03:00
+  until: 2026-09-01 02:59
+  limit: На суму до 500 грн
+
+  id: 257661
+  description: -15% на овочі та фрукти
+  reward: -15%
+  value: 15
+  where: Діє лише у магазинах Києва
+
+codes
+  Found 2 promo codes
+
+  code: SUMMER30
+  title: -30 грн на замовлення від 500 грн
+
+  code: WELCOME
+  inactive

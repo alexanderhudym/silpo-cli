@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "summary": "Found 28 top-level categories",
+  "tree": [
+    {
+      "slug": "spetsialni-propozytsii-5189",
+      "children": [
+        {
+          "slug": "20-povertayemo-balobonusamy",
+          "children": []
+        },
+        {
+          "slug": "5-1-na-obrane-pyvo",
+          "children": [],
+          "total": 12
+        },
+        {
+          "slug": "ptaaak-na-na-tsukerky-u-korobkakh",
+          "children": [],
+          "total": 42
+        },
+        {
+          "slug": "plius-na-zhyttia-5043",
+          "children": [
+            {
+              "slug": "1d3d58f2e1e5460d3a81a31fd1f61dee",
+              "children": [],
+              "total": 251
+            },
+            {
+              "slug": "9e17b9fdf887c88029f4f6ee0e813b83",
+              "children": [],
+              "total": 50
+            },
+            {
+              "slug": "f98973d6a256b81fc4ec76d87b85f2d0",
+              "children": []
+            },
+            {
+              "slug": "9cf9f500038ff6026e23a8eb4287df5f",
+              "children": []
+            }
+          ],
+          "total": 301
+        }
+      ],
+      "total": 355
+    }
+  ]
+}

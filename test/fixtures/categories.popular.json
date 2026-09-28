@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "summary": "Found 4 popular categories",
+  "categories": [
+    {
+      "id": "1edb13bf-1aec-6cd4-b978-53f89724fa3a",
+      "slug": "frukty-381",
+      "title": "Фрукти",
+      "url": "https://silpo.ua/category/frukty-381"
+    },
+    {
+      "id": "1edb13c0-4f94-6a9e-9c35-53f89724fa3a",
+      "slug": "syry-napivtverdi-1472",
+      "title": "Сири напівтверді",
+      "url": "https://silpo.ua/category/syry-napivtverdi-1472"
+    },
+    {
+      "id": "1ee3b391-91da-6b00-8f07-d5a21254cccc",
+      "slug": "moreprodukty-ta-moliusky-4435",
+      "title": "Морепродукти та молюски",
+      "url": "https://silpo.ua/category/moreprodukty-ta-moliusky-4435"
+    },
+    {
+      "id": "1ee8d586-3556-648a-bd82-45c811b6bc3a",
+      "slug": "tykhi-vyna-4459",
+      "title": "Тихі вина",
+      "url": "https://silpo.ua/category/tykhi-vyna-4459"
+    }
+  ]
+}

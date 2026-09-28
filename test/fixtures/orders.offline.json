@@ -1,0 +1,125 @@
+{
+  "success": true,
+  "summary": "Found 2 offline orders (total: 24)",
+  "orders": [
+    {
+      "filId": 5831,
+      "filialName": "просп. Володимира Івасюка, 46",
+      "cityName": "Київ",
+      "createdAt": "2026-08-09T12:19:45",
+      "sumReg": 473.65,
+      "accruedBalaBonusesSum": 1.64,
+      "sumDiscount": 211,
+      "receiptUrl": "https://receipt.example.com/r/0000000001",
+      "chequeMagicName": "Весняний фрукт",
+      "chequePrediction": "Хтось шукає проліски, а дехто - вашу усмішку.",
+      "rewards": [
+        {
+          "rewardGroupCodeName": "CN_REWARD_CHIPS",
+          "applyText": "YEZZZ! Купуй та отримуй безкоштовний зв'язок",
+          "valueText": "+2408.43грн",
+          "applyRewardAmount": 2408.43,
+          "promoId": 257660
+        },
+        {
+          "rewardGroupCodeName": "CN_REWARD_VOUCHERS",
+          "applyText": "Використані балобонуси",
+          "valueText": "99.26грн.",
+          "applyRewardAmount": 99.26,
+          "promoId": null
+        }
+      ],
+      "products": [
+        {
+          "lagerId": 51601,
+          "name": "Цукіні",
+          "unit": "кг",
+          "quantity": 0.788,
+          "price": 39.99,
+          "image": "https://content.silpo.ua/sku/ecommerce/51/480x480wwm/51601.png",
+          "catalogProduct": {
+            "id": "1ed075df-6db4-6e90-bfca-dd63763181f9",
+            "name": "Цукіні",
+            "slug": "tsukini-51601",
+            "price": 39.99,
+            "stock": 0,
+            "available": false,
+            "image": "https://images.silpo.ua/v2/products/500x500/webp/024a6e55-81a4-420b-a509-010cbc7e561b.png",
+            "weighted": true,
+            "step": 0.3,
+            "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+            "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496"
+          }
+        },
+        {
+          "lagerId": 315224,
+          "name": "Макаронні вироби Garofalo Лінгвіне",
+          "unit": "500г",
+          "quantity": 1,
+          "price": 119,
+          "image": "https://content.silpo.ua/sku/ecommerce/31/480x480wwm/315224.png",
+          "catalogProduct": null
+        },
+        {
+          "lagerId": 315224,
+          "name": "Макаронні вироби Garofalo Лінгвіне",
+          "unit": "500г",
+          "quantity": -1,
+          "price": 119,
+          "image": null,
+          "catalogProduct": null
+        },
+        {
+          "lagerId": 999999,
+          "name": "В скарбничку",
+          "unit": "шт",
+          "quantity": 1,
+          "price": 0.01,
+          "image": null,
+          "catalogProduct": null
+        }
+      ]
+    },
+    {
+      "filId": 1998,
+      "filialName": "вул. Бережанська, 22",
+      "cityName": "Київ",
+      "createdAt": "2026-07-30T09:02:11",
+      "sumReg": 72.99,
+      "accruedBalaBonusesSum": 0,
+      "sumDiscount": 0,
+      "receiptUrl": null,
+      "chequeMagicName": null,
+      "chequePrediction": null,
+      "rewards": [],
+      "products": [
+        {
+          "lagerId": 587355,
+          "name": "Яйця перепелині «Премія»®",
+          "unit": "20шт",
+          "quantity": 1,
+          "price": 72.99,
+          "image": null,
+          "catalogProduct": {
+            "id": "1ed07632-a969-664a-b656-dd63763181f9",
+            "name": "Яйця перепелині «Премія»®",
+            "slug": "yaitsia-perepelyni-premiia-587355",
+            "price": 72.99,
+            "stock": 25,
+            "available": true,
+            "image": null,
+            "weighted": false,
+            "step": 1,
+            "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+            "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496"
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "limit": 2,
+    "offset": 0,
+    "total": 24
+  }
+}

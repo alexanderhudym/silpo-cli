@@ -1,0 +1,45 @@
+{
+  "success": true,
+  "summary": "Found 3 favorite products (showing 2)",
+  "products": [
+    {
+      "id": "1ed07606-0894-6584-ac01-dd63763181f9",
+      "name": "Яйця курячі С1 «Квочка»",
+      "slug": "yaitsia-kuriachi-s1-kvochka-452276",
+      "price": 62.69,
+      "oldPrice": null,
+      "stock": 0,
+      "available": false,
+      "image": "https://images.silpo.ua/v2/products/500x500/webp/501791dc-6a41-42d7-b2f9-1c365c90f0f5.png",
+      "weighted": false,
+      "step": 1,
+      "displayRatio": "10шт",
+      "specialPrices": null,
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+      "externalProductId": 452276
+    },
+    {
+      "id": "1ed075ea-e448-69d4-a8d3-dd63763181f9",
+      "name": "Яйце «Ясенсвіт» «Справжні велетні» С0",
+      "slug": "yaitse-yasensvit-spravzhni-veletni-s0-181642",
+      "price": 70.39,
+      "oldPrice": null,
+      "stock": 0,
+      "available": false,
+      "image": "https://images.silpo.ua/v2/products/500x500/webp/64010c12-d583-4b05-a9fc-56461557f6f6.png",
+      "weighted": false,
+      "step": 1,
+      "displayRatio": "10шт",
+      "specialPrices": null,
+      "companyId": "1ec88c5d-a050-669c-8467-570a157f3e31",
+      "branchId": "1ed43e73-051b-6842-a111-a5ad042eb496",
+      "externalProductId": 181642
+    }
+  ],
+  "meta": {
+    "limit": 3,
+    "offset": 0,
+    "total": 3
+  }
+}

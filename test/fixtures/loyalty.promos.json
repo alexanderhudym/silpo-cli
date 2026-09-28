@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "summary": "Found 2 personal promos, 1 selected of 2 allowed",
+  "promos": [
+    {
+      "promoId": 257660,
+      "selected": true,
+      "beginDate": "2026-08-01T00:00:00+00:00",
+      "endDate": "2026-08-31T23:59:59+00:00",
+      "description": "+10% балобонусів на молочні продукти",
+      "rewardText": "+10%",
+      "rewardValue": 10,
+      "limitText": "На суму до 500 грн",
+      "warningText": null,
+      "addressListText": null,
+      "image": null
+    },
+    {
+      "promoId": 257661,
+      "selected": false,
+      "beginDate": null,
+      "endDate": null,
+      "description": "-15% на овочі та фрукти",
+      "rewardText": "-15%",
+      "rewardValue": 15,
+      "limitText": null,
+      "warningText": null,
+      "addressListText": "Діє лише у магазинах Києва",
+      "image": null
+    }
+  ],
+  "meta": {
+    "total": 2,
+    "minSelect": 0,
+    "maxSelect": 2
+  }
+}

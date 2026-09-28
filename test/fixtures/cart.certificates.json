@@ -1,0 +1,22 @@
+{
+  "success": false,
+  "summary": "Certificates: 1 failed validation. MANDATORY: call silpo_get_shopping_cart_by_id to verify.",
+  "added": [
+    {
+      "barcode": "9990001234567",
+      "faceValue": null,
+      "validations": [
+        {
+          "level": "error",
+          "type": "certificate",
+          "message": "certificate.not_found",
+          "context": {
+            "barcode": "9990001234567",
+            "errorMessage": "Сертифікат не знайдено !"
+          }
+        }
+      ]
+    }
+  ],
+  "removed": []
+}
